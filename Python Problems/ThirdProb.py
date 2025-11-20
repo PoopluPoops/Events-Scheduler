@@ -1,15 +1,3 @@
-# 3. Event Scheduler
-
-# Design a simple event scheduler where users can add, remove, and list upcoming events.
-
-# Each event has a name, date, and optional description.
-
-# Events should be stored persistently (in a file or simple database).
-
-# The program should display the next upcoming event when launched.
-
-#Start with comments
-
 
 events_date = []
 while True:
